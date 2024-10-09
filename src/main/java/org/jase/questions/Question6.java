@@ -1,7 +1,5 @@
 package org.jase.questions;
 
-import java.util.*;
-
 public class Question6 {
     public static void main(String[] args) {
         String[] names = {"Sam", "Tommy", "Tim", "Sally", "Buck", "Bob"};
