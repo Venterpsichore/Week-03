@@ -8,7 +8,7 @@ public class Question2 {
          // Sets up the for each in the for loop
         int totalLetters = 0;
         for (String name : names) {
-            totalLetters += name.length();
+            totalLetters += name.length(); // Totals all of the letter numbers of the name
         }
         /* Divides the int totalLetters by the number of elements in names (the length) with double in parentheses
          before totalLetters making the quotient double instead of the default integer operation */
